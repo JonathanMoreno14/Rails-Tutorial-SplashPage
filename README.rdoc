@@ -13,3 +13,10 @@ This is a Rails Tutorial for creating a simple splash page that is built upon th
 
 
 
+
+
+
+
+
+
+The tutorial on this Ruby on Rails application was created by Neil Patel ; How to Code a Personal Splash Page in Ruby on Rails, HTML & CSS in 30 mins (https://goo.gl/L0TJY9)

@@ -1,10 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+This is a Rails Tutorial for creating a simple splash page with background image and the usage of social media icons
 
-* 'rails', '4.1.8'
+* Ruby version 2.1.0
+
+* Rails 4.1.8
+
+

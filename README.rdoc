@@ -2,10 +2,14 @@
 
 
 
-This is a Rails Tutorial for creating a simple splash page with background image and the usage of social media icons
+This is a Rails Tutorial for creating a simple splash page that is built upon the Ruby on Rails framework. The application consist of a background image and the usage of social media icons and the Bootstrap 3 front-end framework. The Rails application was created on a Windows machine ; 10.  
 
 * Ruby version 2.1.0
 
 * Rails 4.1.8
+
+
+
+
 
 

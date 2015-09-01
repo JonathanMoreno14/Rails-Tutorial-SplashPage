@@ -9,6 +9,25 @@ This is a Rails Tutorial for creating a simple splash page that is built upon th
 * Rails 4.1.8
 
 
+===Link to Splashpage 
+https://agile-beyond-6518.herokuapp.com/
+
+
+====Issue when delpoyed on heroku
+When you deploy the Splash page depending on the css layout the image may not render correctly. to fix this you will need to modify your CSS.scss file.
+
+Change the background css from 
+    background: url('the_pines.jpg')
+To
+   body {
+    background-image: image-url("the_pines.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    line-height: 1.5;
+    color: white;
+    }
+
 
 
 

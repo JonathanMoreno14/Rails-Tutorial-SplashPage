@@ -14,7 +14,7 @@ https://agile-beyond-6518.herokuapp.com/
 
 
 ====Issue when delpoyed on heroku
-When you deploy the Splash page depending on the css layout the image may not render correctly to fix this you will need to modify your CSS.scss file.
+When you deploy the Splash page depending on the CSS layout the image may not render correctly to fix this you will need to modify your CSS.SCSS file or which ever file contains the backgound image CSS. 
 
 Change the background css from 
     background: url('the_pines.jpg')
